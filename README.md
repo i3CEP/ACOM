@@ -21,4 +21,4 @@
   * "https://management.azure.com/subscriptions" & "https://management.azure.com/tenants"
 
 
-**Provide Feedback** - Have an idea or suggestion? E-mail: hemacn@microsoft.com | sadmin@i3CEP.com to post your thoughts.
+**Provide Feedback** - Have an idea or suggestion? E-mail: hemacn@microsoft.com | sadmin@i3ce.com to post your thoughts.
