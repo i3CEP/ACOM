@@ -4,11 +4,11 @@
 **ACOM** Service Spend & Usage Report Template provides Azure Enterprise Agreement (EA) Customers with Advanced Insights into Yearly / Monthly / Daily Azure Service Spend, Service Usage Trends, Capacity-In-Use & probable Cost & Capacity Optimization Service areas, cutting across Primary & B2B Tenants | Azure Regions | Organization / Departments | Accounts | Subscriptions, Resource Groups, Service Categories, Sub-Categories, actual Product SKUs, Individual Resources / Resource Names
 * Modular approach | Aligned to ([Azure EA Framework](https://github.com/i3CEP/Azure-Framework)) -|- Get visibility of the current configured EA Structure, Hierarchy & respective Azure Spend
 * CXO / Executive | High Level Overview | Azure Service Spend -|- Overall Service & Marketplace Spend | RI Purchase, Savings & Recommendations | AHB Usage
-* BAU Ops | Low Level Service Spend & Usage -|- Resource Count, Usage Hours, vCPUs/Cores, Data size, Cost & Last Day Capacity view for | Virtual Machines & Licence | Storage, ANF, AMLFS, Disks & Snapshots | Backup & ASR | Network & Bandwidth | Security | Database | Data & AI | App Services | Resource Inventory | Price List
+* BAU Ops | Low Level Overview Azure Service Spend & Usage -|- Resource Count, Usage Hours, vCPUs/Cores, Data size, Cost & Last Day Capacity view for | Virtual Machines & Licence | Storage, ANF, AMLFS, Disks & Snapshots | Backup & ASR | Network & Bandwidth | Security | Database | Data & AI | App Services | Resource Inventory | Price List
 * Advance Insights accurate up to n-1 day over a selected period, initial period is set to 1 or 2 Months, can be changed between 0 to 12 Months
 * Extensive Filters, Row / Column Drill Up/Down options, Interdependent Tiles, Personalize visuals options, Focus Mode for enhanced Full-page visibility & set Alert notifications
 * Options to export Individual Reports to MS Excel or Analyze in MS Excel with Direct Query Live Connection to the Semantic Model
-* Scheduled Reports Refresh - Daily / Weekly across different Time-Zones
+* Schedule Report Refresh options - Daily / Weekly across different Time-Zones
 * Requires Power BI / Fabric Workspace with Pro / Premium / Fabric License respectively, Azure **'EA Billing Account ID'** & '**Enterprise Billing (Reader)**' RBAC for Data Connect
 * Deploy Directly Straight-Out-of-The-Box (OTB) to Customer Tenant with Relative Ease
 * Optional Indirect-Deployment method | SaaS offering, hosted on i3CE Platform | Subscribe as Managed Service
